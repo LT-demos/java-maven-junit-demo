@@ -1,5 +1,5 @@
 Java-Maven-Junit-demo
----------------------
+=====================
 
 A simple Java project with Junit4.9 on Maven
 
